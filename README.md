@@ -10,7 +10,7 @@ repo init -u git://github.com/omnirom/android.git -b android-9.0
   - Clone the local_manifests from GitHub using the following commands:
 ```bash
 cd .repo
-git clone https://github.com/MartinX3sAndroidDevelopment/local_manifests.git
+git clone https://github.com/MartinX3sAndroidDevelopment/omni_twrp_local_manifests.git local_manifests
 cd local_manifests
 git checkout android-9.0
 cd ../..
