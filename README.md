@@ -2,8 +2,8 @@
 
   - In a terminal window, enter the following commands: 
 ```bash
-mkdir ~/omni_9.0
-cd ~/omni_9.0
+mkdir omni_9.0
+cd omni_9.0
 repo init -u git://github.com/omnirom/android.git -b android-9.0
 ```
 
