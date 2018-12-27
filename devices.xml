@@ -3,9 +3,9 @@
     <remote  name="MartinX3sAndroidDevelopment" fetch="https://github.com/MartinX3sAndroidDevelopment" review="gerrit.omnirom.org" />
     
 <!--sdm845 stock-->
-    <project path="device/sony/tama-common_stock" name="android_device_sony_tama-common_stock" groups="device" remote="MartinX3sAndroidDevelopment" revision="android-9.0" />
-    <project path="device/sony/akari_stock" name="android_device_sony_akari_stock" groups="device" remote="MartinX3sAndroidDevelopment" revision="android-9.0" />
-    <project path="device/sony/akatsuki_stock" name="android_device_sony_akatsuki_stock" groups="device" remote="MartinX3sAndroidDevelopment" revision="android-9.0" />
-    <project path="device/sony/apollo_stock" name="android_device_sony_apollo_stock" groups="device" remote="MartinX3sAndroidDevelopment" revision="android-9.0" />
+    <project path="device/sony/tama-common" name="android_device_sony_tama-common_stock" groups="device" remote="MartinX3sAndroidDevelopment" revision="android-9.0" />
+    <project path="device/sony/akari" name="android_device_sony_akari_stock" groups="device" remote="MartinX3sAndroidDevelopment" revision="android-9.0" />
+    <project path="device/sony/akatsuki" name="android_device_sony_akatsuki_stock" groups="device" remote="MartinX3sAndroidDevelopment" revision="android-9.0" />
+    <project path="device/sony/apollo" name="android_device_sony_apollo_stock" groups="device" remote="MartinX3sAndroidDevelopment" revision="android-9.0" />
 </manifest>
 
