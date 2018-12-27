@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote  name="omnirom" fetch="https://github.com/omnirom" review="gerrit.omnirom.org" />
     <remote  name="MartinX3sAndroidDevelopment" fetch="https://github.com/MartinX3sAndroidDevelopment" review="gerrit.omnirom.org" />
     
 <!--sdm845 stock-->
