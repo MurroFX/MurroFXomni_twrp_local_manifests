@@ -21,7 +21,7 @@ repo init -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.
 ```bash
 cd .repo
 git clone https://github.com/MartinX3sAndroidDevelopment/omni_twrp_local_manifests.git local_manifests
-cd ../..
+cd ..
 ```
 
   - To download the code into the device repos created above, run the command:
