@@ -2,11 +2,6 @@
 <manifest>
     <remote  name="omnirom" fetch="https://github.com/omnirom" review="gerrit.omnirom.org" />
     <remote  name="MartinX3sAndroidDevelopment" fetch="https://github.com/MartinX3sAndroidDevelopment" review="gerrit.omnirom.org" />
-
-<!--sdm845 omni-->
-    <project path="device/sony/akari" name="android_device_sony_akari" groups="device" remote="omnirom" revision="android-9.0" />
-    <project path="device/sony/akatsuki" name="android_device_sony_akatsuki" groups="device" remote="omnirom" revision="android-9.0" />
-    <project path="device/sony/apollo" name="android_device_sony_apollo" groups="device" remote="omnirom" revision="android-9.0" />
     
 <!--sdm845 stock-->
     <project path="device/sony/akari_stock" name="android_device_sony_akari_stock" groups="device" remote="MartinX3sAndroidDevelopment" revision="android-9.0" />
