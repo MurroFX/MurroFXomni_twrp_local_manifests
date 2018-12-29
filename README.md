@@ -10,7 +10,7 @@ mkdir omni_9.0
 cd omni_9.0
 repo init -u git://github.com/omnirom/android.git -b android-9.0
 ```
-### or for the minimal TWRP build environment
+###### or for the minimal TWRP build environment
 ```bash
 mkdir omni_9.0
 cd omni_9.0
@@ -23,7 +23,7 @@ cd .repo
 git clone https://github.com/MartinX3sAndroidDevelopment/omni_twrp_local_manifests.git local_manifests
 cd ..
 ```
-### or for the minimal TWRP build environment
+###### or for the minimal TWRP build environment
 ```bash
 cd .repo
 git clone https://github.com/MartinX3sAndroidDevelopment/omni_twrp_local_manifests.git local_manifests
